@@ -90,7 +90,7 @@ body {
 }
 .modal-footer::before {
   content: "";
-  position: absolute;
+  position: relative;
   top:0;
   display: block;
   width: 11px;
@@ -106,7 +106,7 @@ body {
   content: "";
   position: absolute;
   top:0;
-  display: block;
+  display: none;
   width: 2px;
   height: 16px;
   border: 2px solid #f8598a;
