@@ -65,7 +65,7 @@ body {
 .my-modal-content {
   max-width: 80vw !important;
   display: grid;
-  grid-template-rows: 0.15fr 1.5fr 1.2fr;
+  grid-template-rows:1fr;
   border-radius: 20px;
   background: #282e3c;
   color: white;
